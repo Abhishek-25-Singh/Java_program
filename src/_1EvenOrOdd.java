@@ -10,6 +10,7 @@ public class _1EvenOrOdd {
         }else{
             System.out.println(num + "  is a Odd Number.");
 
+
         }
     }
 }
