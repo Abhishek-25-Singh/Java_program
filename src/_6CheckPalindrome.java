@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CheckPalindrome {
+public class _6CheckPalindrome {
 
     public static <string> void main (String [] args){
 
